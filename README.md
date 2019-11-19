@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 Connect with API todo [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
 
 ## Available Scripts
